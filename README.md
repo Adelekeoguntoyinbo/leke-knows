@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Adeleke
 - 👀 I’m interested in programing languages
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on data analysis and visualization using pandas and matplotlib
+- 💞️ I’m looking to collaborate on data analysis and visualization using python,sql and tableau
 - 📫 How to reach me leke4eva@gmail.com
 
 <!---
